@@ -71,7 +71,6 @@ You only retry when you're ready (minimum confidence threshold met).
 This submission includes:
 - **[requirements.md](requirements.md)**: Complete requirements specification with user stories
 - **[design.md](design.md)**: Detailed system design and architecture
-- **Presentation Deck**: Visual overview of the concept and vision
 
 ## Why Ariveon Will Succeed
 
